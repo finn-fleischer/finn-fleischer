@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 #### Name:
-Finn Fleischer
+
+►Finn Fleischer
+
+►16 years old
 
 #### Hobbys:
 ►programming
