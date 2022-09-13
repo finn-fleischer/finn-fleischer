@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Name:
+#### Name and age:
 
 ►Finn Fleischer
 
