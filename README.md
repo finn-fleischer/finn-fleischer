@@ -2,7 +2,10 @@
 
 I´m 17 years old and my hobbies are programming and mixing music.
 
-####Languages:
+#### Languages:
+
 ►English
+
 ►German
+
 ►Spanish (little bit)
