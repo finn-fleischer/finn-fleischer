@@ -1,12 +1,3 @@
 ### Hi there 👋
 
-#### Name and age:
-
-►Finn Fleischer
-
-►16 years old
-
-#### Hobbys:
-►programming
-
-►tech stuff
+I´m 17 years old and my hobbies are programming and mixing music.
